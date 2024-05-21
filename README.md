@@ -3,11 +3,11 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [title here](https://github.com/nickbruggen90/nickbruggen90)
 
 <h2>📺 YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [youtube video here](https://www.youtube.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
