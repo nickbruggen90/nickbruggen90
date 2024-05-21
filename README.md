@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nick! <br/><a href="https://github.com/nickbruggen90/nickbruggen90">IT</a></h1>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>💻 IT Projects:</h2>
 
 - <b>Actice Directory Home Lab</b>
   - [title here](https://github.com/nickbruggen90/nickbruggen90)
@@ -10,7 +10,7 @@
 - Microsoft AZ-900<br>
 - Google IT Support
 
-<h2>📺 YouTube Videos</h2>
+<h2>📱 YouTube Videos</h2>
 
 - [Active Directory Home Lab](https://www.youtube.com/)
 
