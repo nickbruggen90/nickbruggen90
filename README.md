@@ -5,7 +5,7 @@
 - <b>Actice Directory Home Lab</b>
   - [title here](https://github.com/nickbruggen90/nickbruggen90)
 
-<h2>Certifications</h2>
+<h2>📜Certifications</h2>
 - CompTIA A+<br>
 - Microsoft AZ-900<br>
 - Google IT Support
