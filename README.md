@@ -2,12 +2,17 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Actice Directory Home Lab</b>
   - [title here](https://github.com/nickbruggen90/nickbruggen90)
+
+<h2>Certifications</h2>
+- CompTIA A+<br>
+- Microsoft AZ-900<br>
+- Google IT Support
 
 <h2>📺 YouTube Videos</h2>
 
-- [youtube video here](https://www.youtube.com/)
+- [Active Directory Home Lab](https://www.youtube.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
