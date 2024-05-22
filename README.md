@@ -3,8 +3,7 @@
 <h2>💻 IT Projects:</h2>
 
 - <b>Tutorials</b>
-<a href="https://github.com/nickbruggen90/nickbruggen90">IT</a>
-  - [Active Directory tutorial][https://github.com/nickbruggen90/nickbruggen90](https://github.com/nickbruggen90/ActiveDirectoryLab)
+<a href="https://github.com/nickbruggen90/ActiveDirectoryLab">Actice Directory Tutorial</a>
 
 <h2>📜Certifications</h2>
 - CompTIA A+<br>
