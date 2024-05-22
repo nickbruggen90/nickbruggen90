@@ -2,8 +2,8 @@
 
 <h2>💻 IT Projects:</h2>
 
-- <b>Actice Directory Home Lab</b>
-  - [title here](https://github.com/nickbruggen90/nickbruggen90)
+- <b>Tutorials</b>
+  - [Active Directory tutorial]([https://github.com/nickbruggen90/nickbruggen90](https://github.com/nickbruggen90/ActiveDirectoryLab))
 
 <h2>📜Certifications</h2>
 - CompTIA A+<br>
