@@ -12,7 +12,7 @@
 
 <h2>📱 YouTube Videos</h2>
 
-- [Active Directory Home Lab](https://www.youtube.com/)<br>
+- [Active Directory Home Lab Walk-Through](https://www.youtube.com/)<br>
 
 <h2> 📡 Connect with me:</h2>
 
