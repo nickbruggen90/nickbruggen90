@@ -7,6 +7,7 @@
 
 <h2>📜Certifications</h2>
 - CompTIA A+<br>
+- CompTIA Network<br>
 - Microsoft AZ-900<br>
 - Google IT Support<br>
 
