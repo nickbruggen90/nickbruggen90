@@ -1,5 +1,5 @@
 <h2>💻 IT Projects:</h2>
-<a href="">Packet Tracer examples</a><br>
+<a href="https://github.com/nickbruggen90/nickbruggen90/blob/main/PacketTracerExamples">Packet Tracer examples</a><br>
 <a href="https://github.com/nickbruggen90/ActiveDirectoryLab">Active Directory Tutorial</a>
 
 <h2>📜Certifications</h2>
