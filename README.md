@@ -1,7 +1,6 @@
 <h1>Hi, I'm Nick! <br/><a href="https://github.com/nickbruggen90/nickbruggen90">IT</a></h1>
 
 <h2>💻 IT Projects:</h2>
-<br>
 <a href="">Packet Tracer examples</a><br>
 <a href="https://github.com/nickbruggen90/ActiveDirectoryLab">Active Directory Tutorial</a>
 
