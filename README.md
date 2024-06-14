@@ -2,7 +2,8 @@
 
 <h2>💻 IT Projects:</h2>
 
-- <b>Tutorials</b><br>
+<b>Tutorials</b>
+<br>
 <a href="">Packet Tracer examples</a>
 <a href="https://github.com/nickbruggen90/ActiveDirectoryLab">Active Directory Tutorial</a>
 
