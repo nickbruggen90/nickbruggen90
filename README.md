@@ -4,8 +4,9 @@ Linux Labs <br>
 CCNA Documentation
 
 <h2>📜Certifications</h2>
-- CompTIA A+<br>
+- Cisco CCNA<br>
 - CompTIA Network+<br>
+- CompTIA A+<br>
 - Microsoft AZ-900<br>
 - Google IT Support<br>
 
