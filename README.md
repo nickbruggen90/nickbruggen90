@@ -1,4 +1,4 @@
-<h2>💻 IT Projects:</h2>
+<h2>💻 Documentation and Projects:</h2>
 <a href="https://github.com/nickbruggen90/nickbruggen90/blob/main/PacketTracerExamples">Packet Tracer examples</a><br>
 Linux Labs <br>
 CCNA Documentation
