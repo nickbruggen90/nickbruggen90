@@ -3,10 +3,10 @@
 Linux Labs <br>
 
 <h2>📜Certifications</h2>
-*Cisco CCNA  
-*CompTIA Network+  
-*CompTIA A+  
-
+* Cisco CCNA  
+* CompTIA Network+  
+* CompTIA A+  
+---
 
 <h2> 📡 Connect with me:</h2>
 
