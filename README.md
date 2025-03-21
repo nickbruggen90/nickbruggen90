@@ -3,11 +3,10 @@
 Linux Labs <br>
 
 <h2>📜Certifications</h2>
-- Cisco CCNA<br>
-- CompTIA Network+<br>
-- CompTIA A+<br>
-- Microsoft AZ-900<br>
-- Google IT Support<br>
+*Cisco CCNA  
+*CompTIA Network+  
+*CompTIA A+  
+
 
 <h2> 📡 Connect with me:</h2>
 
