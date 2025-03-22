@@ -9,4 +9,9 @@
 * Troubleshooting Scenarios
 * Lab Documentation
 ---
+### Why this repo exists?
+* A study reference
+* Troubleshooting guide for real-world scenarios
+* Resource for deep technical understanding
+---
 ### Featured Labs
