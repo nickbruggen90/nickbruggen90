@@ -15,3 +15,8 @@
 * Resource for deep technical understanding
 ---
 ### Featured Labs
+---
+#### Connect With Me
+* Email" `nickbruggen90@gmail.com`
+* [LinkedIn](https://www.linkedin.com/nickbruggen90)
+* [Discord]
