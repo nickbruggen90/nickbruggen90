@@ -17,6 +17,6 @@
 ### Featured Labs
 ---
 #### Connect With Me
-* Email" `nickbruggen90@gmail.com`
+* Email: `nickbruggen90@gmail.com`
 * [LinkedIn](https://www.linkedin.com/nickbruggen90)
 * [Discord]
