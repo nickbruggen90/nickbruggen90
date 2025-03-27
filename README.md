@@ -17,6 +17,9 @@
 ---
 ### Repositories
 * [Networking Notes](https://github.com/nickbruggen90/Network-Notes)
+* [Boson NetSim Labs]
+* [Packet Tracer Labs]
+* [Custom Topologies]
 #### Connect With Me
 * Email: `nickbruggen90@gmail.com`
 * [LinkedIn](https://www.linkedin.com/in/nickbruggen90/)
