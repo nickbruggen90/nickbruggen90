@@ -19,5 +19,5 @@
 * [Networking Notes](https://github.com/nickbruggen90/Network-Notes)
 #### Connect With Me
 * Email: `nickbruggen90@gmail.com`
-* [LinkedIn]
+* [LinkedIn](https://www.linkedin.com/in/nickbruggen90/)
 * [Discord]
