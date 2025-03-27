@@ -15,8 +15,8 @@
 * Troubleshooting guide for real-world scenarios
 * Resource for deep technical understanding
 ---
-### Featured Labs
----
+### Repositories
+* [Networking Notes](https://github.com/nickbruggen90/Network-Notes)---
 #### Connect With Me
 * Email: `nickbruggen90@gmail.com`
 * [LinkedIn]
