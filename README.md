@@ -17,7 +17,7 @@
 ---
 ### Repositories
 * [Networking Notes](https://github.com/nickbruggen90/Network-Notes)
-* [Boson NetSim Labs]
+* [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-Network-Labs)
 * [Packet Tracer Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
 * [Custom Topologies]
 #### Connect With Me
