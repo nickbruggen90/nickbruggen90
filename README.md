@@ -8,7 +8,7 @@
 * Accurate command syntax
 * Real verification output examples
 * Common Issues and Fixes (troubleshooting)
-* Lab Documentation and configuation walkthroughs
+* Lab documentation and configuation walkthroughs
 ---
 ### Why this repo exists?
 * To serve as a long-term study reference
