@@ -4,11 +4,11 @@
 #### This will be a place for command syntax, verification output, protocol architecture and modern networking technologies
 ---
 ### What you'll find here
-* Deep-dives
-* Correct command syntax
-* Verification outputs
-* Troubleshooting Scenarios
-* Lab Documentation
+* Deep-dive protocol and technology breakdowns
+* Accurate command syntax
+* Real verification output examples
+* Common Issues and Fixes (troubleshooting)
+* Lab Documentation and configuation walkthroughs
 ---
 ### Why this repo exists?
 * A study reference
