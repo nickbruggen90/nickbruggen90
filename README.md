@@ -11,9 +11,9 @@
 * Lab Documentation and configuation walkthroughs
 ---
 ### Why this repo exists?
-* A study reference
-* Troubleshooting guide for real-world scenarios
-* Resource for deep technical understanding
+* To serve as a long-term study reference
+* To act as a troubleshooting guide for real-world scenarios
+* To build a technical knowledge base with clarity and precision
 ---
 ### Repositories
 * [Networking Notes](https://github.com/nickbruggen90/Network-Notes)
