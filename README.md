@@ -1,7 +1,7 @@
 ## Networking Encyclopedia: Vol. 802.1Q (work in progress)   
 
-#### Welcome to my Networking Lab Documentation and Reference Manual repository. This will be an ongoing project. 
-#### This will be a place for command syntax, verification output, protocol architecture and modern networking technologies
+#### Welcome to my Networking Lab Documentation and Reference Manual repository. This is an ongoing project dedicated to mastering Ciaco networking and modern networking technologies.
+#### Here you will find command syntax, real verification output, protocol architecture and deep-dives into both foundational and emerging topics.
 ---
 ### What you'll find here
 * Deep-dive protocol and technology breakdowns
