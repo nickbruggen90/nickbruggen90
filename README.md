@@ -1,6 +1,6 @@
-## Welcome to my Networking Lab Documentation and Reference Manual repository  
+## Networking Encyclopedia: Vol. 802.1Q (work in progress)   
 
-#### This is an ongoing project; Networking Encyclopedia: Vol. 802.1Q (work in progress)
+#### Welcome to my Networking Lab Documentation and Reference Manual repository. This will be an ongoing project. 
 #### This will be a place for command syntax, verification output, protocol architecture and modern networking technologies
 ---
 ### What you'll find here
