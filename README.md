@@ -1,10 +1,10 @@
 ## Welcome to my Networking Lab Documentation and Reference Manual repository  
 
 #### This repo is an ongoing project; Networking Encyclopedia: Vol. 802.1Q (work in progress)
-#### This repo is a collection of *command syntax, verification outputs and deep-dives* into each protocol  
+#### This will be a place for command syntax, verification output, protocol architecture and modern networking technologies
 ---
 ### What you'll find here
-* Deep-dives into protocols that operate on all layers
+* Deep-dives
 * Correct command syntax
 * Verification outputs
 * Troubleshooting Scenarios
