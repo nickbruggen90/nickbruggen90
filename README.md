@@ -19,7 +19,7 @@
 * [Networking Notes](https://github.com/nickbruggen90/Network-Notes)
 * [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-Network-Labs)
 * [Packet Tracer Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
-* [ CCPN Custom MegaLab ]
+* [ CCNP Custom MegaLab ]
 * [Custom Topologies]
 * [Python Scripts]
 * [Wireshark Examples]
