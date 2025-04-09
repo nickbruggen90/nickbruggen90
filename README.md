@@ -19,11 +19,10 @@
 * [Networking Notes](https://github.com/nickbruggen90/Network-Notes)
 * [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-Network-Labs)
 * [Packet Tracer Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
-* [ CCNP Custom MegaLab ]
+* [CCNP Custom MegaLab]
 * [Custom Topologies]
 * [Python Scripts]
-* [Wireshark Examples]
-* [Stratoshare Examples]
+* [Packet Captures]
 #### Connect With Me
 * Email: `nickbruggen90@gmail.com`
 * [LinkedIn](https://www.linkedin.com/in/nickbruggen90/)
