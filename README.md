@@ -5,14 +5,14 @@
 ---
 ### 🕵️‍♂️ What You'll Find Here
 
-- 📘 Deep-dive protocol documentation and technology breakdowns
-- 🧪 Lab walkthroughs using GNS3, VyOS, and Cisco tools
-- 🖨️ Real CLI Verification Examples
-- 🔐 Common Issues and Fixes (troubleshooting tips)
-- ✍️ Network automation with Python, Netmiko, and RESTCONF
-- 📰 Biweekly posts from [Substack Sundays](https://vol8021q.substack.com)
+- Deep-dive protocol documentation and technology breakdowns
+- Lab walkthroughs using GNS3, VyOS, and Cisco tools
+- Real CLI Verification Examples
+- Common Issues and Fixes (troubleshooting tips)
+- ✍Network automation with Python, Netmiko, and RESTCONF
+- Biweekly posts from [Substack Sundays](https://vol8021q.substack.com)
 ---
-### Why this repo exists?
+### 🎖️ Why this repo exists?
 * To serve as a long-term study reference
 * To act as a troubleshooting guide for real-world scenarios
 * To build a technical knowledge base with clarity and precision
