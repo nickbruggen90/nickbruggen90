@@ -1,4 +1,4 @@
-## Networking Encyclopedia: Vol. 802.1Q (work in progress)   
+## Vol. 802.1Q (work in progress)   
 
 #### Welcome to my Networking Lab Documentation and Reference Manual repository. This is an ongoing project dedicated to mastering Cisco networking and modern networking technologies.
 #### Vol.802.1Q is all about protocol architecture - offering deep-dives into both foundational and emerging topics.
