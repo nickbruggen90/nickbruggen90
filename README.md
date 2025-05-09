@@ -3,12 +3,14 @@
 #### Welcome to my Networking Lab Documentation and Reference Manual repository. This is an ongoing project dedicated to mastering Cisco networking and modern networking technologies.
 #### Here you will find command syntax, real verification output, protocol architecture and deep-dives into both foundational and emerging topics.
 ---
-### What you'll find here
-* Deep-dive protocol and technology breakdowns
-* Accurate command syntax
-* Real verification output examples
-* Common Issues and Fixes (troubleshooting)
-* Lab documentation and configuration walkthroughs
+## 🚀 What You'll Find Here
+
+- 📘 Deep-dive protocol documentation and technology breakdowns
+- 🧪 Lab walkthroughs using GNS3, VyOS, and Cisco tools
+- 🖨️ Real Verification Output Examples
+- 🔐 Common Issues and Fixes (troubleshooting)
+- 🧰 Network automation with Python, Netmiko, and RESTCONF
+- ✍️ Biweekly posts from [Substack Sundays](https://vol802.1q.substack.com)
 ---
 ### Why this repo exists?
 * To serve as a long-term study reference
