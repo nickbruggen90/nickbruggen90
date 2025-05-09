@@ -26,7 +26,7 @@
 * [CBT Nuggets Labs]
 * [JeremyIT CCNA Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
 ---
-## Follow this project
+### Follow this project
 
 I’m a solo builder and student — but open to input, feedback, and discussion.
 If you’d like to follow along, check out:
