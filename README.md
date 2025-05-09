@@ -16,13 +16,13 @@
 * To build a technical knowledge base with clarity and precision
 ---
 ### Repositories
-* [Networking Notes](https://github.com/nickbruggen90/Network-Notes)
-* [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-Network-Labs)
-* [Packet Tracer Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
+* [Encyclopedia](https://github.com/nickbruggen90/Network-Notes)
 * [CCNP Custom MegaLab]
 * [Custom Topologies]
 * [Python Scripts]
-* [Packet Captures]
+* [Wireshark Labs]
+* [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-Network-Labs)
+* [Packet Tracer Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
 ---
 ### 👋
 I’m Nickolas — a field tech turned full-stack network engineer-in-training. I document everything I learn and build — from first ping to full network architecture.
