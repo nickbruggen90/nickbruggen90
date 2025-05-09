@@ -18,13 +18,13 @@
 * To build a technical knowledge base with clarity and precision
 ---
 ### Table of Contents
-* [Encyclopedia](https://github.com/nickbruggen90/Network-Notes)
+* [Encyclopedia: Vol. 802.1Q](https://github.com/nickbruggen90/Network-Notes)
+* [Labs: Vol.802.1Q]
+* [Scripts: Vol.802.1Q]
 * [CCNP MegaLab Project]
-* [Python Scripts]
-* [Wireshark Labs]
 * [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-Network-Labs)
+* [CBT Nuggets Labs]
 * [JeremyIT CCNA Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
-* [Custom Topologies]
 ---
 ## Contribute / Follow Along
 
