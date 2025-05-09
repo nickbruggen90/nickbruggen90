@@ -19,12 +19,12 @@
 ---
 ### Table of Contents
 * [Encyclopedia](https://github.com/nickbruggen90/Network-Notes)
-* [CCNP Custom MegaLab]
-* [Custom Topologies]
+* [CCNP MegaLab Project]
 * [Python Scripts]
 * [Wireshark Labs]
 * [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-Network-Labs)
 * [Packet Tracer Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
+* [Custom Topologies]
 ---
 ### 👋
 I’m Nickolas — a field tech turned full-stack network engineer-in-training. I document everything I learn and build — from first ping to full network architecture.
