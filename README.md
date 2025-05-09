@@ -9,7 +9,7 @@
 - Lab walkthroughs using GNS3, VyOS, and Cisco tools
 - Real CLI Verification Examples
 - Common Issues and Fixes (troubleshooting tips)
-- ✍Network automation with Python, Netmiko, and RESTCONF
+- Network automation with Python, Netmiko, and RESTCONF
 - Biweekly posts from [Substack Sundays](https://vol8021q.substack.com)
 ---
 ### 🎖️ Why this repo exists?
@@ -17,7 +17,7 @@
 * To act as a troubleshooting guide for real-world scenarios
 * To build a technical knowledge base with clarity and precision
 ---
-## Table of Contents
+## 🔮 Table of Contents
 * [Encyclopedia: Vol. 802.1Q](https://github.com/nickbruggen90/Network-Notes)
 * [Labs: Vol.802.1Q]
 * [Scripts: Vol.802.1Q]
@@ -26,7 +26,7 @@
 * [CBT Nuggets Labs]
 * [JeremyIT CCNA Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
 ---
-### Follow this project
+### 🧭 Follow this project
 
 I’m a solo builder and student — but open to input, feedback, and discussion.
 If you’d like to follow along, check out:
