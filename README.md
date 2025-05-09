@@ -15,7 +15,7 @@
 * To act as a troubleshooting guide for real-world scenarios
 * To build a technical knowledge base with clarity and precision
 ---
-### Repositories
+### Table of Contents
 * [Encyclopedia](https://github.com/nickbruggen90/Network-Notes)
 * [CCNP Custom MegaLab]
 * [Custom Topologies]
