@@ -26,13 +26,6 @@
 * [JeremyIT CCNA Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
 * [Custom Topologies]
 ---
-### 👋
-I’m Nickolas — a field tech turned full-stack network engineer-in-training. I document everything I learn and build — from first ping to full network architecture.
-#### Connect With Me
-* Email: `nickbruggen90@gmail.com`
-* [LinkedIn](https://www.linkedin.com/in/nickbruggen90/)
-* [Discord]
----
 ## Contribute / Follow Along
 
 I’m a solo builder and student — but open to input, feedback, and discussion.
@@ -40,3 +33,11 @@ If you’d like to follow along, check out:
 
 * [Vol.802.1Q Website](https://www.vol8021q.com)
 * [Substack Sundays](https://vol8021q.substack.com)
+---
+### 👋
+I’m Nickolas — a field tech turned full-stack network engineer-in-training. I document everything I learn and build — from first ping to full network architecture.
+#### Connect With Me
+* Email: `nickbruggen90@gmail.com`
+* [LinkedIn](https://www.linkedin.com/in/nickbruggen90/)
+* [Discord]
+---
