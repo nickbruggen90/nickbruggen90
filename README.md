@@ -23,7 +23,7 @@
 * [Python Scripts]
 * [Wireshark Labs]
 * [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-Network-Labs)
-* [JeremyIT Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
+* [JeremyIT CCNA Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
 * [Custom Topologies]
 ---
 ### 👋
