@@ -23,6 +23,7 @@
 * [Custom Topologies]
 * [Python Scripts]
 * [Packet Captures]
+---
 ### 👋 About Me
 
 I’m Nickolas — a field tech turned full-stack network engineer-in-training. I document everything I learn and build — from first ping to full network architecture.
