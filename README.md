@@ -19,7 +19,7 @@
 ---
 ## 🔮 Table of Contents
 * [Encyclopedia: Vol. 802.1Q](https://github.com/nickbruggen90/Network-Notes)
-* [Labs: Vol.802.1Q]
+* [Labs: Vol.802.1Q](https://github.com/nickbruggen90/LabsVol8021Q/tree/main)
 * [Scripts: Vol.802.1Q]
 * [CCNP MegaLab Project]
 * [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-Network-Labs)
