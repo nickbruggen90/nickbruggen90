@@ -34,3 +34,13 @@ I’m Nickolas — a field tech turned full-stack network engineer-in-training. 
 * [Vol.802.1Q Website](https://www.vol8021q.com)
 * [Substack Sundays](https://vol8021q.substack.com)
 * [Discord]
+---
+## ⚙️ Contribute / Follow Along
+
+I’m a solo builder and student — but open to input, feedback, and discussion.
+If you’d like to follow along, check out:
+
+- 📰 Weekly Substack posts
+- 🐍 Python automation scripts
+- 🧪 Lab walkthroughs with diagrams
+
