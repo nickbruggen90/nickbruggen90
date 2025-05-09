@@ -33,7 +33,7 @@ I’m Nickolas — a field tech turned full-stack network engineer-in-training. 
 * [LinkedIn](https://www.linkedin.com/in/nickbruggen90/)
 * [Discord]
 ---
-## ⚙️ Contribute / Follow Along
+## Contribute / Follow Along
 
 I’m a solo builder and student — but open to input, feedback, and discussion.
 If you’d like to follow along, check out:
