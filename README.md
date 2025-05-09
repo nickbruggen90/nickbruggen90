@@ -10,7 +10,7 @@
 - 🖨️ Real Verification Output Examples
 - 🔐 Common Issues and Fixes (troubleshooting)
 - ✍️ Network automation with Python, Netmiko, and RESTCONF
-- 📰 Biweekly posts from [Substack Sundays](https://vol802.1q.substack.com)
+- 📰 Biweekly posts from [Substack Sundays](https://vol8021q.substack.com)
 ---
 ### Why this repo exists?
 * To serve as a long-term study reference
