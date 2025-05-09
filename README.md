@@ -3,7 +3,7 @@
 #### Welcome to my networking lab documentation and reference manual repository. This is an ongoing project dedicated to mastering Cisco networking and modern networking technologies.
 #### Vol.802.1Q is all about protocol architecture - offering deep-dives into both foundational and emerging topics.
 ---
-## 🕵️‍♂️ What You'll Find Here
+### 🕵️‍♂️ What You'll Find Here
 
 - 📘 Deep-dive protocol documentation and technology breakdowns
 - 🧪 Lab walkthroughs using GNS3, VyOS, and Cisco tools
@@ -17,7 +17,7 @@
 * To act as a troubleshooting guide for real-world scenarios
 * To build a technical knowledge base with clarity and precision
 ---
-### Table of Contents
+## Table of Contents
 * [Encyclopedia: Vol. 802.1Q](https://github.com/nickbruggen90/Network-Notes)
 * [Labs: Vol.802.1Q]
 * [Scripts: Vol.802.1Q]
