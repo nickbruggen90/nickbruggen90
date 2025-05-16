@@ -1,6 +1,6 @@
 ## Vol. 802.1Q (work in progress)   
 
-#### Welcome to my networking lab documentation and reference manual repository. This is an ongoing project dedicated to mastering Cisco networking and modern networking technologies.
+#### Welcome to my networking lab documentation and reference manual repository. This is an ongoing project dedicated to mastering Cisco and modern networking technologies.
 #### Vol.802.1Q is all about protocol architecture - offering deep-dives into both foundational and emerging topics.
 ---
 ### 🕵️‍♂️ What you'll find here?
