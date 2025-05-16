@@ -6,7 +6,7 @@
 ### 🕵️‍♂️ What you'll find here?
 
 - Deep-dive protocol documentation and technology breakdowns
-- Lab walkthroughs using GNS3, VyOS, and Cisco tools
+- Lab walkthroughs using GNS3, Eve-NG, VyOS, and Cisco tools
 - Real CLI Verification Examples
 - Common Issues and Fixes (troubleshooting tips)
 - Network automation with Python, Netmiko, and RESTCONF
