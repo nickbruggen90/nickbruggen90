@@ -10,7 +10,7 @@
 - Real CLI Verification Examples
 - Common Issues and Fixes (troubleshooting tips)
 - Network automation with Python, Netmiko, and RESTCONF
-- Biweekly posts from [Substack Sundays](https://vol8021q.substack.com)
+- Posts from my [Substack Sundays](https://vol8021q.substack.com) Project
 ---
 ### 🎖️ Why this repo exists?
 * To serve as a long-term study reference
