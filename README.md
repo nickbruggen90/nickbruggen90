@@ -21,7 +21,7 @@
 * [Encyclopedia: Vol. 802.1Q](https://github.com/nickbruggen90/Networking-Encyclopedia-frontside)
 * [Labs: Vol.802.1Q](https://github.com/nickbruggen90/LabsVol8021Q/tree/main)
 * [Scripts: Vol.802.1Q]
-* [CCNP MegaLab Project]
+* [CCNP MegaLab Project] - work in progress
 * [INE Labs]
 * [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-Network-Labs)
 * [CBT Nuggets Labs]
