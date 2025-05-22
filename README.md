@@ -41,5 +41,5 @@ I’m Nickolas — a field tech turned full-stack network engineer-in-training. 
 * Email: `nickbruggen90@gmail.com`
 * [LinkedIn](https://www.linkedin.com/in/nickbruggen90/)
 * [Discord]
-* www.nickbruggen90.io
+* www.nickbruggen90.net
 ---
