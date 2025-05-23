@@ -23,7 +23,7 @@
 * [Scripts: Vol. 802.1Q]
 * [CCNP MegaLab Project] - work in progress
 * [Python Documentation]
-* [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-Network-Labs)
+* [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-NetSim-Labs)
 * [CBT Nuggets Labs]
 * [JeremyIT CCNA Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
 ---
