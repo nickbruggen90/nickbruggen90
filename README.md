@@ -31,7 +31,7 @@
 
 If you’d like to follow along, check out:
 
-* [Vol.802.1Q Website](https://www.vol8021q.com)
+* [Vol.802.1Q Website](https://www.nickbruggen90.net)
 * [Substack Sundays](https://vol8021q.substack.com)  
  ###### — open to input, feedback, and discussion.
 
