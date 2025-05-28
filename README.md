@@ -44,5 +44,6 @@ Aspiring Network Architect • CCNP/CCIE Track
 GitHub: [@nickbruggen90](https://github.com/nickbruggen90)  
 [Substack](https://vol8021q.substack.com)  
 [nickbruggen90.net](https://www.nickbruggen90.net)  
+nickbruggen90@gmail.com
 
 ---
