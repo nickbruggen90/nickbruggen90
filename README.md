@@ -29,7 +29,7 @@
 ---
 ### 🧭 Follow this project
 
-I’m a solo builder and student — but open to input, feedback, and discussion.
+ — but open to input, feedback, and discussion.
 If you’d like to follow along, check out:
 
 * [Vol.802.1Q Website](https://www.vol8021q.com)
