@@ -33,7 +33,7 @@ If you’d like to follow along, check out:
 
 * [Vol.802.1Q Website](https://www.vol8021q.com)
 * [Substack Sundays](https://vol8021q.substack.com)  
- ######## — open to input, feedback, and discussion.
+ ###### — open to input, feedback, and discussion.
 
 ---
 ### 👋
