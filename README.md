@@ -36,10 +36,11 @@ If you’d like to follow along, check out:
 * [Substack Sundays](https://vol8021q.substack.com)
 ---
 ### 👋
-I’m Nickolas — a field tech turned full-stack network engineer-in-training. I document everything I learn and build — from first ping to full network architecture.
-#### Connect With Me
-* Email: `nickbruggen90@gmail.com`
-* [LinkedIn](https://www.linkedin.com/in/nickbruggen90/)
-* [Discord]
-* www.nickbruggen90.net
+## Connect With Me
+
+**Nickolas Bruggen**  
+Aspiring Network Architect • CCNP/CCIE Track  
+GitHub: [@nickbruggen90](https://github.com/nickbruggen90)  
+[Substack](https://vol8021q.substack.com)
+[nickbruggen90.net](https://www.nickbruggen90.net)
 ---
