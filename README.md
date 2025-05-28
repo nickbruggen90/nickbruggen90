@@ -41,8 +41,8 @@ If you’d like to follow along, check out:
 
 **Nickolas Vander Bruggen**  
 Aspiring Network Architect • CCNP/CCIE Track  
-Personal Project: [Vol. 802.1Q](https://www.nickbruggen90.net)  
-Publication: [Substack](https://vol8021q.substack.com)  
+✍🌐Personal Project: [Vol. 802.1Q](https://www.nickbruggen90.net)  
+✍️Publication: [Substack](https://vol8021q.substack.com)  
 nickbruggen90@gmail.com  
 
 ---
