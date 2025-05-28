@@ -36,9 +36,9 @@ If you’d like to follow along, check out:
 * [Substack Sundays](https://vol8021q.substack.com)
 ---
 ### 👋
-## Connect With Me
+### Connect With Me
 
-**Nickolas Bruggen**  
+**Nickolas Vander Bruggen**  
 Aspiring Network Architect • CCNP/CCIE Track  
 GitHub: [@nickbruggen90](https://github.com/nickbruggen90)  
 [Substack](https://vol8021q.substack.com)
