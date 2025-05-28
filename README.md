@@ -41,9 +41,8 @@ If you’d like to follow along, check out:
 
 **Nickolas Vander Bruggen**  
 Aspiring Network Architect • CCNP/CCIE Track  
-GitHub: [@nickbruggen90](https://github.com/nickbruggen90)  
-[Substack](https://vol8021q.substack.com)  
-[nickbruggen90.net](https://www.nickbruggen90.net)  
+[Vol. 802.1Q Project](https://www.nickbruggen90.net) 
+[Substack](https://vol8021q.substack.com)   
 nickbruggen90@gmail.com
 
 ---
