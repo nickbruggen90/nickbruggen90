@@ -13,13 +13,12 @@
 * [CBT Nuggets Labs]
 * [JeremyIT CCNA Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
 ---
-### 👋
+### 🌐
 ### Connect With Me
 
 **Nickolas Vander Bruggen**  
 Aspiring Network Architect • CCNP/CCIE Track  
-🌐Personal Project: [Vol. 802.1Q](https://www.nickbruggen90.net)  
-✍️Publication: [Substack](https://vol8021q.substack.com)  
+📚Personal Project: [Vol. 802.1Q](https://www.nickbruggen90.net)   
 nickolas@nickbruggen90.net
 
 ---
