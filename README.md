@@ -11,11 +11,6 @@
 - Common Issues and Fixes (troubleshooting tips)
 - Network automation with Python, Netmiko, and RESTCONF
 ---
-### 🎖️ Why this repo exists?
-* To serve as a long-term study reference
-* To act as a troubleshooting guide for real-world scenarios
-* To build a technical knowledge base with clarity and precision
----
 ## 🔮 Table of Contents
 * [Encyclopedia: Vol. 802.1Q](https://github.com/nickbruggen90/Networking-Encyclopedia-frontside)
 * [Labs: Vol. 802.1Q](https://github.com/nickbruggen90/LabsVol8021Q/tree/main)
