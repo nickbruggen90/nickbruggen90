@@ -3,14 +3,6 @@
 #### Welcome to Vol. 802.1Q. This is an ongoing project dedicated to mastering Cisco and modern networking technologies.
 #### Vol.802.1Q is all about protocol architecture - offering deep-dives into both foundational and emerging topics.
 ---
-### 🕵️‍♂️ What you'll find here?
-
-- Deep-dive protocol documentation and technology breakdowns
-- Lab walkthroughs using GNS3, Eve-NG, VyOS, and Cisco tools
-- Real CLI Verification Examples
-- Common Issues and Fixes (troubleshooting tips)
-- Network automation with Python, Netmiko, and RESTCONF
----
 ## 🔮 Table of Contents
 * [Encyclopedia: Vol. 802.1Q](https://github.com/nickbruggen90/Networking-Encyclopedia-frontside)
 * [Labs: Vol. 802.1Q](https://github.com/nickbruggen90/LabsVol8021Q/tree/main)
