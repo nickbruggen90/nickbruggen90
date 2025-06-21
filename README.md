@@ -7,7 +7,6 @@
 ## 🔮 Table of Contents
 * [Encyclopedia: Vol. 802.1Q](https://github.com/nickbruggen90/Networking-Encyclopedia-frontside)
 * [Labs: Vol. 802.1Q](https://github.com/nickbruggen90/LabsVol8021Q/tree/main)
-* [Scripts: Vol. 802.1Q](https://github.com/nickbruggen90/scripts)
 * [Python Documentation](https://github.com/nickbruggen90/Python-Documentation/tree/main)
 * [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-NetSim-Labs)
 * [JeremyIT CCNA Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
