@@ -10,9 +10,7 @@
 * [Scripts: Vol. 802.1Q](https://github.com/nickbruggen90/scripts)
 * [Python Documentation](https://github.com/nickbruggen90/Python-Documentation/tree/main)
 * [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-NetSim-Labs)
-* [CBT Nuggets Labs]
 * [JeremyIT CCNA Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
-* [CCNP MegaLab Project] - work in progress
 ---
 ### 🌐
 ### Connect With Me
