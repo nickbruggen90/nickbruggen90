@@ -12,8 +12,7 @@
 * [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-NetSim-Labs)
 * [JeremyIT CCNA Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab)
 ---
-### 🌐
-### Connect With Me
+### 🌐 Connect With Me
 
 **Nickolas Vander Bruggen**  
 Aspiring Network Engineer • CCNP/CCIE Track  
