@@ -17,7 +17,7 @@
 
 **Nickolas Vander Bruggen**  
 Aspiring Network Architect • CCNP/CCIE Track  
-📚Personal Project: [Vol. 802.1Q](https://www.nickbruggen90.net)   
+[www.nickbruggen90.net](https://www.nickbruggen90.net)   
 nickolas@nickbruggen90.net
 
 ---
