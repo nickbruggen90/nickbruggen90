@@ -15,6 +15,6 @@
 ### 🌐 Connect With Me
 
 **Nickolas Vander Bruggen**  
-Aspiring Network Engineer • CCNP/CCIE Track  
+Aspiring Network Engineer • CCNP/CCIE/Palo Alto Track  
 [www.nickbruggen90.net](https://www.nickbruggen90.net)   
 nickolas@nickbruggen90.net
