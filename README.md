@@ -2,6 +2,7 @@
 #### Welcome to Vol. 802.1Q. This is an ongoing project dedicated to mastering Cisco and modern networking technologies.
 [Official Link](https://www.nickbruggen90.net)
 #### Vol.802.1Q is all about protocol architecture - offering deep-dives into both foundational and emerging topics.
+##### This is a documented journey of my learning and documentation process
 ---
 ## 🔮 Core Vol. 802.1Q Projects
 * [Encyclopedia: Vol. 802.1Q](https://github.com/nickbruggen90/Networking-Encyclopedia-frontside) - Comprehensive networking knowledge base
