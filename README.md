@@ -11,6 +11,7 @@
 * [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-NetSim-Labs) - CCNA preparation lab scenarios
 * [JeremyIT CCNA Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab) - Packet Tracer lab exercises
 * [Python Documentation](https://github.com/nickbruggen90/Python-Documentation/tree/main) - Network automation scripts and utilities
+* [Linux Documentation](https://github.com/nickbruggen90/Linux-Documentation) - Linux, bit by bit
 ---
 ### 🌐 Connect With Me
 
