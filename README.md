@@ -10,14 +10,14 @@
 * Project NovaCore
 
 ## Additional Documentation
-* [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-NetSim-Labs) - CCNA preparation lab scenarios
-* [JeremyIT CCNA Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab) - Packet Tracer lab exercises
-* [Python Documentation](https://github.com/nickbruggen90/Python-Documentation/tree/main) - Network automation scripts and utilities
-* [Linux Documentation](https://github.com/nickbruggen90/Linux-Documentation) - Linux, bit by bit
+- [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-NetSim-Labs) – CCNA prep labs  
+- [JeremyIT CCNA Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab) – Packet Tracer exercises  
+- [Python Docs](https://github.com/nickbruggen90/Python-Documentation/tree/main) – Net automation scripts  
+- [Linux Docs](https://github.com/nickbruggen90/Linux-Documentation) – CLI tools and commands  
 ---
 ### 🌐 Connect With Me
 
 **Nickolas Vander Bruggen**  
-Aspiring Network Engineer • CCIE/Palo Alto Track  
-[www.nickbruggen90.net](https://www.nickbruggen90.net)   
-nickolas@nickbruggen90.net
+Aspiring Network Engineer • CCIE / Palo Alto Track  
+[www.nickbruggen90.net](https://www.nickbruggen90.net)  
+[nickolas@nickbruggen90.net](mailto:nickolas@nickbruggen90.net)
