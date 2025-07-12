@@ -7,7 +7,7 @@
 - [Encyclopedia: Vol. 802.1Q](https://github.com/nickbruggen90/Networking-Encyclopedia-frontside) – Comprehensive networking knowledge base  
 - [Labs: Vol. 802.1Q](https://github.com/nickbruggen90/LabsVol8021Q/tree/main) – Hands-on lab documentation and scenarios  
 - [Project Sightline]
-- [Project NovaCore]
+- [Project NovaCore](https://github.com/nickbruggen90/NovaCore) – AI-powered networking assistant trained on RFCs, vendor docs, and IEEE standards
 
 ## Additional Documentation
 - [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-NetSim-Labs) – CCNA prep labs  
