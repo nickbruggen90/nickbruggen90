@@ -11,7 +11,7 @@
 ## Additional Documentation
 - [Python Docs](https://github.com/nickbruggen90/Python-Documentation/tree/main) – Net automation scripts
 - [PowerShell Docs](https://github.com/nickbruggen90/PowerShell/tree/main) - PowerShell scripts and documentation
-- [Linux Docs](https://github.com/nickbruggen90/Linux-Documentation) – CLI tools and commands
+- [Linux Docs](https://github.com/nickbruggen90/Linux-Documentation) – Comprehensive Linux guides and documentation
 - [Boson NetSim Labs](https://github.com/nickbruggen90/Boson-NetSim-Labs) – CCNA prep labs  
 - [JeremyIT CCNA Mega Lab](https://github.com/nickbruggen90/Packet-Tracer-Mega-Lab) – Packet Tracer exercises  
 - [Project Sightline] 
