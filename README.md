@@ -6,7 +6,6 @@
 ## Core Vol. 802.1Q Projects
 - [Encyclopedia: Vol. 802.1Q](https://github.com/nickbruggen90/Networking-Encyclopedia-frontside) – Comprehensive networking knowledge base  
 - [Labs: Vol. 802.1Q](https://github.com/nickbruggen90/LabsVol8021Q/tree/main) – Hands-on lab documentation and scenarios  
-- [Project NovaCore](https://github.com/nickbruggen90/NovaCore)
 
 ## Additional Documentation
 - [Python Docs](https://github.com/nickbruggen90/Python-Documentation/tree/main) – Net automation scripts
