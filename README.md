@@ -1,7 +1,6 @@
 ##### This is an ongoing project dedicated to mastering modern networking technologies.
 ##### This repo is all about protocol architecture, with deep-dive studies into both foundational and emerging topics.
 ---
-## Core Vol. 802.1Q Projects
 - [Encyclopedia](https://github.com/nickbruggen90/Networking-Encyclopedia-frontside) – Comprehensive networking knowledge base  
 - [Traditional Labs](https://github.com/nickbruggen90/LabsVol8021Q/tree/main) – Hands-on lab documentation and scenarios
 - [Automation Labs] - 
