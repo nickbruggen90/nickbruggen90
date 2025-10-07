@@ -1,4 +1,4 @@
-#### This is an ongoing project dedicated to mastering Cisco and modern networking technologies.
+#### This is an ongoing project dedicated to mastering modern networking technologies.
 ##### This is a documented journey of my learning process. A personal knowledge base.
 #### This repo is all about protocol architecture, with deep-dive studies into both foundational and emerging topics.
 ---
