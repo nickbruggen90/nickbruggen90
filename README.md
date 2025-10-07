@@ -1,6 +1,6 @@
 ##### Everything here was typed and documented by me. This is a living repo of my networking journey.
 ##### This is an ongoing project dedicated to mastering modern networking technologies.
-##### This repo is all about protocol architecture, with deep-dive studies into both foundational and emerging topics.
+##### A repo dedicated protocol architecture, with deep-dive studies into both foundational and emerging topics.
 ---
 - [Encyclopedia](https://github.com/nickbruggen90/Networking-Encyclopedia-frontside) – Comprehensive networking knowledge base  
 - [Traditional Labs](https://github.com/nickbruggen90/LabsVol8021Q/tree/main) – Cisco CML, GNS-3, EVE-NG documentation
