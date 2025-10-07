@@ -4,8 +4,9 @@
 #### Vol.802.1Q is all about protocol architecture, with deep-dive studies into both foundational and emerging topics.
 ---
 ## Core Vol. 802.1Q Projects
-- [Encyclopedia: Vol. 802.1Q](https://github.com/nickbruggen90/Networking-Encyclopedia-frontside) – Comprehensive networking knowledge base  
-- [Labs: Vol. 802.1Q](https://github.com/nickbruggen90/LabsVol8021Q/tree/main) – Hands-on lab documentation and scenarios  
+- [Encyclopedia](https://github.com/nickbruggen90/Networking-Encyclopedia-frontside) – Comprehensive networking knowledge base  
+- [Traditional Labs](https://github.com/nickbruggen90/LabsVol8021Q/tree/main) – Hands-on lab documentation and scenarios
+- [Automation Labs] - 
 
 ## Additional Documentation
 - [Python Docs](https://github.com/nickbruggen90/Python-Documentation/tree/main) – Net automation scripts
