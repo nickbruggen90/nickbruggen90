@@ -5,7 +5,7 @@
 - [Encyclopedia](https://github.com/nickbruggen90/Networking-Encyclopedia-frontside) – Comprehensive networking knowledge base  
 - [Traditional Labs](https://github.com/nickbruggen90/LabsVol8021Q/tree/main) – Cisco CML, GNS-3, EVE-NG documentation
 - [Automation Labs](https://github.com/nickbruggen90/network-automation-labs/tree/main) – Python, Ansible, YAML, IaC documentation
-- [CML Topologies] -  Topologies built using YAML/IaC
+- [CML Topologies](https://github.com/nickbruggen90/cml_topologies/tree/main) -  Topologies built using YAML/IaC
 - [NetBox] -  Inventory of topologies using YAML/IaC
 
 ---
