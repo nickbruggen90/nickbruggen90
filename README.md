@@ -2,8 +2,8 @@
 ##### This repo is all about protocol architecture, with deep-dive studies into both foundational and emerging topics.
 ---
 - [Encyclopedia](https://github.com/nickbruggen90/Networking-Encyclopedia-frontside) – Comprehensive networking knowledge base  
-- [Traditional Labs](https://github.com/nickbruggen90/LabsVol8021Q/tree/main) – Cisco CML, GNS-3, EVE-NG labs and documentation
-- [Automation Labs] – Python, Ansible, YAML, IaC labs and documentation  
+- [Traditional Labs](https://github.com/nickbruggen90/LabsVol8021Q/tree/main) – Cisco CML, GNS-3, EVE-NG documentation
+- [Automation Labs] – Python, Ansible, YAML, IaC documentation  
 
 ---
 
