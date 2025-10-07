@@ -1,7 +1,6 @@
-## Vol. 802.1Q (work in progress)   
-#### Welcome to Vol. 802.1Q. This is an ongoing project dedicated to mastering Cisco and modern networking technologies.
+#### This is an ongoing project dedicated to mastering Cisco and modern networking technologies.
 ##### This is a documented journey of my learning process. A personal knowledge base.
-#### Vol.802.1Q is all about protocol architecture, with deep-dive studies into both foundational and emerging topics.
+#### This repo is all about protocol architecture, with deep-dive studies into both foundational and emerging topics.
 ---
 ## Core Vol. 802.1Q Projects
 - [Encyclopedia](https://github.com/nickbruggen90/Networking-Encyclopedia-frontside) – Comprehensive networking knowledge base  
