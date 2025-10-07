@@ -3,7 +3,7 @@
 ---
 - [Encyclopedia](https://github.com/nickbruggen90/Networking-Encyclopedia-frontside) – Comprehensive networking knowledge base  
 - [Traditional Labs](https://github.com/nickbruggen90/LabsVol8021Q/tree/main) – Cisco CML, GNS-3, EVE-NG documentation
-- [Automation Labs] – Python, Ansible, YAML, IaC documentation  
+- [Automation Labs](https://github.com/nickbruggen90/network-automation-labs/tree/main) – Python, Ansible, YAML, IaC documentation  
 
 ---
 
