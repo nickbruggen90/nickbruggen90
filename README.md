@@ -1,3 +1,4 @@
+##### Everything here was typed and documented by me. This is a living repo of my networking journey.
 ##### This is an ongoing project dedicated to mastering modern networking technologies.
 ##### This repo is all about protocol architecture, with deep-dive studies into both foundational and emerging topics.
 ---
