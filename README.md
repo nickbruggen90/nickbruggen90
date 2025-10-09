@@ -16,7 +16,7 @@
 ---
 ### 🌐 Connect With Me
 
-**Nickolas VanderBruggen**  
+**Nickolas Vanderbruggen**  
 Aspiring Network Engineer • CCIE / JNCIE / Python Automation route  
 [www.nickbruggen90.net](https://www.nickbruggen90.net)  
 [nickolas@nickbruggen90.net](mailto:nickolas@nickbruggen90.net)
