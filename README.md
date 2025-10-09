@@ -6,7 +6,7 @@
 - [Virtualization Labwork](https://github.com/nickbruggen90/LabsVol8021Q/tree/main) –  Labwork using virtualized appliances
 - [Automation Labwork](https://github.com/nickbruggen90/network-automation-labs/tree/main) – Python, Ansible, YAML, IaC documentation
 - [CML Topologies](https://github.com/nickbruggen90/cml_topologies/tree/main) -  Topologies built using YAML/IaC
-- [NetBox] -  Inventory of topologies using YAML/IaC
+- [NetBox](https://github.com/nickbruggen90/NetBox-novacore) -  Inventory of topologies using YAML/IaC
 
 ---
 
